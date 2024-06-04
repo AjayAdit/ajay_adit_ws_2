@@ -1,4 +1,4 @@
-###  Filtering of Liadar (laserscan) data for the angles 0-120 deg of a custom-defined robot in Rviz and Gazebo with Lidar and camera plugin controllers with teleoperation.
+###  Filtering of Lidar (laserscan) data for the angles 0-120 deg of a custom-defined robot in Rviz and Gazebo with Lidar and camera plugin controllers with teleoperation.
 
 ## Discription: 
 The main additions to this repo are main a launch file (which visualizes the robot in a custom gazebo and rviz configurations) and a Python file named reading_laser reposible for reading the laser scan topic and filtering it only for DEG 0-120.
