@@ -1,0 +1,6 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found version "3.10.12") 
+-- Configuring incomplete, errors occurred!
+See also "/home/ajay/ajay_adit_ws/build/bot_description/CMakeFiles/CMakeOutput.log".

@@ -1,0 +1,6 @@
+Invoking command in '/home/ajay/ajay_adit_ws/build/bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ajay/ajay_adit_ws/src/bot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ajay/ajay_adit_ws/install/bot_description
+Invoked command in '/home/ajay/ajay_adit_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ajay/ajay_adit_ws/src/bot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ajay/ajay_adit_ws/install/bot_description
+Invoking command in '/home/ajay/ajay_adit_ws/build/bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ajay/ajay_adit_ws/build/bot_description -- -j8 -l8
+Invoked command in '/home/ajay/ajay_adit_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ajay/ajay_adit_ws/build/bot_description -- -j8 -l8
+Invoking command in '/home/ajay/ajay_adit_ws/build/bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ajay/ajay_adit_ws/build/bot_description
+Invoked command in '/home/ajay/ajay_adit_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ajay/ajay_adit_ws/build/bot_description

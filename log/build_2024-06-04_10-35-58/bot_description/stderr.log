@@ -1,0 +1,18 @@
+[31mCMake Error at CMakeLists.txt:27 (find_package):
+  By not providing "FindPYBIND11.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "PYBIND11",
+  but CMake did not find one.
+
+  Could not find a package configuration file provided by "PYBIND11" with any
+  of the following names:
+
+    PYBIND11Config.cmake
+    pybind11-config.cmake
+
+  Add the installation prefix of "PYBIND11" to CMAKE_PREFIX_PATH or set
+  "PYBIND11_DIR" to a directory containing one of the above files.  If
+  "PYBIND11" provides a separate development package or SDK, be sure it has
+  been installed.
+
+[0m
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

@@ -1,0 +1,16 @@
+[0.692s] Invoking command in '/home/ajay/ajay_adit_ws/build/bot_world': PYTHONPATH=/home/ajay/ajay_adit_ws/build/bot_world/prefix_override:/home/ajay/ajay_adit_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ajay/ajay_adit_ws/build/bot_world/build --no-deps symlink_data
+[0.989s] running develop
+[1.212s] running egg_info
+[1.212s] writing bot_world.egg-info/PKG-INFO
+[1.212s] writing dependency_links to bot_world.egg-info/dependency_links.txt
+[1.212s] writing entry points to bot_world.egg-info/entry_points.txt
+[1.212s] writing requirements to bot_world.egg-info/requires.txt
+[1.213s] writing top-level names to bot_world.egg-info/top_level.txt
+[1.215s] reading manifest file 'bot_world.egg-info/SOURCES.txt'
+[1.216s] writing manifest file 'bot_world.egg-info/SOURCES.txt'
+[1.217s] running build_ext
+[1.218s] Creating /home/ajay/ajay_adit_ws/install/bot_world/lib/python3.10/site-packages/bot-world.egg-link (link to .)
+[1.218s] 
+[1.218s] Installed /home/ajay/ajay_adit_ws/build/bot_world
+[1.218s] running symlink_data
+[1.245s] Invoked command in '/home/ajay/ajay_adit_ws/build/bot_world' returned '0': PYTHONPATH=/home/ajay/ajay_adit_ws/build/bot_world/prefix_override:/home/ajay/ajay_adit_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ajay/ajay_adit_ws/build/bot_world/build --no-deps symlink_data

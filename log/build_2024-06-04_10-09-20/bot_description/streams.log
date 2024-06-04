@@ -1,0 +1,32 @@
+[0.013s] Invoking command in '/home/ajay/ajay_adit_ws/build/bot_description': /usr/bin/cmake /home/ajay/ajay_adit_ws/src/bot_description -DCMAKE_INSTALL_PREFIX=/home/ajay/ajay_adit_ws/install/bot_description
+[0.027s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.138s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.153s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.202s] Error parsing '/home/ajay/ajay_adit_ws/src/bot_description/package.xml':
+[0.241s] Traceback (most recent call last):
+[0.241s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[0.242s]     main()
+[0.242s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[0.242s]     raise e
+[0.242s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[0.242s]     package = parse_package_string(
+[0.242s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 786, in parse_package_string
+[0.242s]     raise InvalidPackage('Error(s):%s' % (''.join(['\n- %s' % e for e in errors])), filename)
+[0.242s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/ajay/ajay_adit_ws/src/bot_description/package.xml':
+[0.242s] Error(s):
+[0.242s] - The manifest of package "bot_description" (with format version 3) must not contain the following tags: build_depends, export_depends
+[0.255s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.255s]   execute_process(/usr/bin/python3
+[0.255s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.255s]   /home/ajay/ajay_adit_ws/src/bot_description/package.xml
+[0.255s]   /home/ajay/ajay_adit_ws/build/bot_description/ament_cmake_core/package.cmake)
+[0.255s]   returned error code 1
+[0.255s] Call Stack (most recent call first):
+[0.255s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.255s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.255s]   CMakeLists.txt:32 (ament_lint_auto_find_test_dependencies)
+[0.256s] 
+[0.256s] [0m
+[0.256s] -- Configuring incomplete, errors occurred!
+[0.256s] See also "/home/ajay/ajay_adit_ws/build/bot_description/CMakeFiles/CMakeOutput.log".
+[0.322s] Invoked command in '/home/ajay/ajay_adit_ws/build/bot_description' returned '1': /usr/bin/cmake /home/ajay/ajay_adit_ws/src/bot_description -DCMAKE_INSTALL_PREFIX=/home/ajay/ajay_adit_ws/install/bot_description

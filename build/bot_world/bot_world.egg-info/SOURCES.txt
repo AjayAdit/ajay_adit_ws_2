@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+bot_world/__init__.py
+bot_world.egg-info/PKG-INFO
+bot_world.egg-info/SOURCES.txt
+bot_world.egg-info/dependency_links.txt
+bot_world.egg-info/entry_points.txt
+bot_world.egg-info/requires.txt
+bot_world.egg-info/top_level.txt
+bot_world.egg-info/zip-safe
+resource/bot_world

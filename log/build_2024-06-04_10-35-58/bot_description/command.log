@@ -1,0 +1,2 @@
+Invoking command in '/home/ajay/ajay_adit_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ajay/ajay_adit_ws/install/bot_world:/opt/ros/humble /usr/bin/cmake --build /home/ajay/ajay_adit_ws/build/bot_description -- -j8 -l8
+Invoked command in '/home/ajay/ajay_adit_ws/build/bot_description' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ajay/ajay_adit_ws/install/bot_world:/opt/ros/humble /usr/bin/cmake --build /home/ajay/ajay_adit_ws/build/bot_description -- -j8 -l8

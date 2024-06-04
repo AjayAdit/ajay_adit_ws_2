@@ -1,0 +1,23 @@
+[0.774s] Invoking command in '/home/ajay/ajay_adit_ws/build/bot_world': PYTHONPATH=/home/ajay/ajay_adit_ws/build/bot_world/prefix_override:/home/ajay/ajay_adit_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ajay/ajay_adit_ws/build/bot_world/build --no-deps symlink_data
+[1.067s] running develop
+[1.289s] running egg_info
+[1.289s] creating bot_world.egg-info
+[1.289s] writing bot_world.egg-info/PKG-INFO
+[1.290s] writing dependency_links to bot_world.egg-info/dependency_links.txt
+[1.290s] writing entry points to bot_world.egg-info/entry_points.txt
+[1.290s] writing requirements to bot_world.egg-info/requires.txt
+[1.290s] writing top-level names to bot_world.egg-info/top_level.txt
+[1.290s] writing manifest file 'bot_world.egg-info/SOURCES.txt'
+[1.291s] reading manifest file 'bot_world.egg-info/SOURCES.txt'
+[1.292s] writing manifest file 'bot_world.egg-info/SOURCES.txt'
+[1.293s] running build_ext
+[1.293s] Creating /home/ajay/ajay_adit_ws/install/bot_world/lib/python3.10/site-packages/bot-world.egg-link (link to .)
+[1.294s] 
+[1.294s] Installed /home/ajay/ajay_adit_ws/build/bot_world
+[1.294s] running symlink_data
+[1.294s] creating /home/ajay/ajay_adit_ws/install/bot_world/share/ament_index
+[1.295s] creating /home/ajay/ajay_adit_ws/install/bot_world/share/ament_index/resource_index
+[1.295s] creating /home/ajay/ajay_adit_ws/install/bot_world/share/ament_index/resource_index/packages
+[1.295s] symbolically linking /home/ajay/ajay_adit_ws/build/bot_world/resource/bot_world -> /home/ajay/ajay_adit_ws/install/bot_world/share/ament_index/resource_index/packages
+[1.295s] symbolically linking /home/ajay/ajay_adit_ws/build/bot_world/package.xml -> /home/ajay/ajay_adit_ws/install/bot_world/share/bot_world
+[1.321s] Invoked command in '/home/ajay/ajay_adit_ws/build/bot_world' returned '0': PYTHONPATH=/home/ajay/ajay_adit_ws/build/bot_world/prefix_override:/home/ajay/ajay_adit_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ajay/ajay_adit_ws/build/bot_world/build --no-deps symlink_data
